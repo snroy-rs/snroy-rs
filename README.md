@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Snigdha Roy and this is my new GitHub account 
-- 👀 I’m interested in learning how to model our minds via machines 
+👋 Hi, I’m Snigdha and this is my new GitHub account 
+<!-- - 👀 I’m interested in learning how to model our minds via machines 
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on neuro-inspired AI projects
 - 📫 How to reach me: snigdha@snigdharoy.com
-
+ -->
 <!---
 snroy-rs/snroy-rs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
