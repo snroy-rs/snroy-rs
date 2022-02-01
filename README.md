@@ -1,4 +1,5 @@
 👋 Hi, I’m Snigdha and this is my new GitHub account 
+
 <!-- - 👀 I’m interested in learning how to model our minds via machines 
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on neuro-inspired AI projects
